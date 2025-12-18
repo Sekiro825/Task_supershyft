@@ -29,7 +29,7 @@ export default function LandingPage() {
                         Saket
                     </h1>
                     <p className="text-gray-400 text-sm tracking-widest uppercase">
-                        Frontend Developer
+                        Full Stack Web Developer
                     </p>
                 </motion.div>
 
@@ -51,7 +51,7 @@ export default function LandingPage() {
                     </div>
                     <p className="text-gray-300 text-sm leading-relaxed">
                         Passionate about building immersive and high-performance web interfaces.
-                        I specialize in React, Tailwind CSS, and creating fluid user experiences
+                        I would love to work on meaningfull projects with Fitnastic/SupershyftI specialize in React, Tailwind CSS, and creating fluid user experiences
                         that combine aesthetics with functionality.
                     </p>
                 </motion.div>
